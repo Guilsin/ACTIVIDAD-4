@@ -1,4 +1,4 @@
-package Punto2;
+package punto2;
 
 public class casaIndependiente extends casaUrbana{
     //atributos:
