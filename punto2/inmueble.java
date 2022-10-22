@@ -1,4 +1,4 @@
-package Punto2;
+package punto2;
 
 public class inmueble { 
     
@@ -28,4 +28,3 @@ public class inmueble {
     System.out.println("Precio de venta = $" + precioVenta);
     }
 }
-
