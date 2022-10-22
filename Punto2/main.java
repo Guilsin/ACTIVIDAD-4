@@ -1,4 +1,4 @@
-package Punto2;
+package punto2;
 
 public class main {
 
@@ -8,5 +8,9 @@ public class main {
         apto1.calcularPrecioVenta(apto1.valorArea);
         apto1.imprimir();
         
+        apartamentoApartaestudio aptestudio1 = new apartamentoApartaestudio(12354,50,"Avenida Caracas 30-15",1,2);
+        System.out.println("Datos del inmueble:");
+        aptestudio1.calcularPrecioVenta(aptestudio1.valorArea);
+        aptestudio1.imprimir();
     }
 }
